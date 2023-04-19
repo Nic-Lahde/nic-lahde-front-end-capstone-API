@@ -1,0 +1,566 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nic Lahde",
+      "email": "nic@lahde.com",
+      "bio": "Rules lawyer and Monopoly hater."
+    },
+    {
+      "id": 2,
+      "name": "Sergey Mikhaylichenko",
+      "email": "sergey@mikhaylichenko.com",
+      "bio": ""
+    },
+    {
+      "id": 3,
+      "name": "Michael Stewart",
+      "email": "michael@stewart.com",
+      "bio": ""
+    },
+    {
+      "id": 4,
+      "name": "Laura Furnivall",
+      "email": "laura@furnivall.com",
+      "bio": ""
+    },
+    {
+      "id": 5,
+      "name": "Courtney Gulledge",
+      "email": "courtney@gulledge.com",
+      "bio": ""
+    },
+    {
+      "id": 6,
+      "name": "Adam Schubert",
+      "email": "adam@schubert.com",
+      "bio": ""
+    },
+    {
+      "id": 7,
+      "name": "Cullen Ruscin",
+      "email": "cullen@ruscin.com",
+      "bio": ""
+    },
+    {
+      "id": 8,
+      "name": "Curtis Webb",
+      "email": "curtis@webb.com",
+      "bio": ""
+    },
+    {
+      "id": 9,
+      "name": "Dan Brady",
+      "email": "dan@brady.com",
+      "bio": ""
+    },
+    {
+      "id": 10,
+      "name": "Jason Harris",
+      "email": "jason@harris.com",
+      "bio": ""
+    },
+    {
+      "id": 11,
+      "name": "Alex Bishop",
+      "email": "alex@bishop.com",
+      "bio": ""
+    },
+    {
+      "id": 12,
+      "name": "Lincoln Keesecker",
+      "email": "lincoln@keesecker.com",
+      "bio": ""
+    },
+    {
+      "id": 13,
+      "name": "Adam Riggs",
+      "email": "adam@riggs.com",
+      "bio": ""
+    },
+    {
+      "id": 14,
+      "name": "Amanda Asgari-Rad",
+      "email": "amanda@asgari-rad.com",
+      "bio": ""
+    },
+    {
+      "id": 15,
+      "name": "Conor Getty",
+      "email": "conor@getty.com",
+      "bio": ""
+    },
+    {
+      "id": 16,
+      "name": "John Brady",
+      "email": "john@brady.com",
+      "bio": ""
+    },
+    {
+      "id": 17,
+      "name": "Shelby Dalton",
+      "email": "shelby@dalton.com",
+      "bio": ""
+    },
+    {
+      "id": 18,
+      "name": "Alexander Bassim",
+      "email": "alexander@bassim.com",
+      "bio": ""
+    },
+    {
+      "id": 19,
+      "name": "Dallen Larson",
+      "email": "dallen@larson.com",
+      "bio": ""
+    },
+    {
+      "id": 20,
+      "name": "Nicholas Pushic",
+      "email": "nicholas@pushic.com",
+      "bio": ""
+    },
+    {
+      "id": 21,
+      "name": "Garrett Crabb",
+      "email": "garrett@crabb.com",
+      "bio": ""
+    },
+    {
+      "id": 22,
+      "name": "Jerry Winburn",
+      "email": "jerry@winburn.com",
+      "bio": ""
+    },
+    {
+      "id": 23,
+      "name": "Kawtar Azzouzi",
+      "email": "kawtar@azzouzi.com",
+      "bio": ""
+    },
+    {
+      "id": 24,
+      "name": "Nickolai Sheikov",
+      "email": "nickolai@sheikov.com",
+      "bio": ""
+    },
+    {
+      "id": 25,
+      "name": "Javier Castillo",
+      "email": "javier@castillo.com",
+      "bio": ""
+    },
+    {
+      "email": "josh@barton.com",
+      "name": "Josh Barton",
+      "bio": "text",
+      "id": 26
+    },
+    {
+      "email": "jes@lahde.com",
+      "name": "Jes Lahde",
+      "bio": "Won at Dune once",
+      "id": 27
+    },
+    {
+      "email": "hayden@vanheule.com",
+      "name": "Hayden Van Heule",
+      "bio": "Pretty cool guy",
+      "id": 28
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "CATAN",
+      "minPlayers": 3,
+      "maxPlayers": 4,
+      "weight": 2.3
+    },
+    {
+      "id": 2,
+      "name": "Clank!",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "weight": 2.22
+    },
+    {
+      "id": 3,
+      "name": "Wingspan",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "weight": 2.45
+    },
+    {
+      "id": 4,
+      "name": "Gloomhaven",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "weight": 3.89
+    },
+    {
+      "id": 5,
+      "name": "Ark Nova",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "weight": 3.72
+    },
+    {
+      "id": 6,
+      "name": "Dune Imperium",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "weight": 3.02
+    },
+    {
+      "id": 7,
+      "name": "Root",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "weight": 3.76
+    },
+    {
+      "id": 8,
+      "name": "Scythe",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "weight": 3.43
+    },
+    {
+      "id": 9,
+      "name": "Axis & Allies 1942",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "weight": 3.14
+    },
+    {
+      "id": 10,
+      "name": "Marvel Legendary",
+      "minPlayers": 1,
+      "maxPlayers": 5,
+      "weight": 2.43
+    },
+    {
+      "id": 11,
+      "name": "Star Wars: The Deckbuilding Game",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "weight": 1.97
+    },
+    {
+      "id": 12,
+      "name": "UNO",
+      "minPlayers": 2,
+      "maxPlayers": 10,
+      "weight": 1.11
+    },
+    {
+      "id": 13,
+      "name": "Exploding Kittens",
+      "minPlayers": 2,
+      "maxPlayers": 5,
+      "weight": 1.09
+    },
+    {
+      "id": 14,
+      "name": "The Royal Game of Ur",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "weight": 1.29
+    },
+    {
+      "id": 15,
+      "name": "Yahtzee",
+      "minPlayers": 2,
+      "maxPlayers": 10,
+      "weight": 1.18
+    },
+    {
+      "id": 16,
+      "name": "Brass: Birmingham",
+      "minPlayers": 2,
+      "maxPlayers": 4,
+      "weight": 3.9
+    },
+    {
+      "name": "Battleship",
+      "minPlayers": 2,
+      "maxPlayers": 2,
+      "weight": 1.05,
+      "id": 17
+    }
+  ],
+  "usersGames": [
+    {
+      "gamesId": 6,
+      "usersId": 1,
+      "id": 1
+    },
+    {
+      "gamesId": 9,
+      "usersId": 1,
+      "id": 2
+    },
+    {
+      "gamesId": 10,
+      "usersId": 1,
+      "id": 3
+    },
+    {
+      "gamesId": 11,
+      "usersId": 1,
+      "id": 4
+    },
+    {
+      "gamesId": 3,
+      "usersId": 4,
+      "id": 5
+    },
+    {
+      "gamesId": 17,
+      "usersId": 4,
+      "id": 6
+    },
+    {
+      "gamesId": 14,
+      "usersId": 10,
+      "id": 7
+    },
+    {
+      "gamesId": 4,
+      "usersId": 11,
+      "id": 8
+    },
+    {
+      "gamesId": 8,
+      "usersId": 11,
+      "id": 9
+    },
+    {
+      "gamesId": 7,
+      "usersId": 5,
+      "id": 10
+    },
+    {
+      "gamesId": 1,
+      "usersId": 3,
+      "id": 11
+    },
+    {
+      "gamesId": 10,
+      "usersId": 9,
+      "id": 12
+    },
+    {
+      "gamesId": 4,
+      "usersId": 9,
+      "id": 13
+    },
+    {
+      "gamesId": 6,
+      "usersId": 26,
+      "id": 14
+    },
+    {
+      "gamesId": 2,
+      "usersId": 2,
+      "id": 15
+    },
+    {
+      "gamesId": 15,
+      "usersId": 2,
+      "id": 16
+    },
+    {
+      "gamesId": 13,
+      "usersId": 15,
+      "id": 17
+    },
+    {
+      "gamesId": 12,
+      "usersId": 15,
+      "id": 18
+    },
+    {
+      "gamesId": 6,
+      "usersId": 28,
+      "id": 19
+    }
+  ],
+  "events": [
+    {
+      "usersId": 1,
+      "date": "2023-05-27T14:04",
+      "location": "543 Fake St",
+      "gamesId": 6,
+      "id": 3
+    },
+    {
+      "usersId": 10,
+      "date": "2023-06-16T19:19",
+      "location": "67 Qwert Rd",
+      "gamesId": 14,
+      "id": 4
+    },
+    {
+      "usersId": 4,
+      "date": "2023-06-10T14:55",
+      "location": "123 Rainbow Rd",
+      "gamesId": 3,
+      "id": 5
+    },
+    {
+      "usersId": 11,
+      "date": "2023-05-20T15:32",
+      "location": "600 Capital Backtick Blvd",
+      "gamesId": 4,
+      "id": 6
+    },
+    {
+      "usersId": 5,
+      "date": "2023-06-09T18:35",
+      "location": "900 Apple Ln",
+      "gamesId": 7,
+      "id": 7
+    },
+    {
+      "usersId": 5,
+      "date": "2023-06-24T17:36",
+      "location": "900 Apple Way",
+      "gamesId": 7,
+      "id": 8
+    },
+    {
+      "usersId": 3,
+      "date": "2023-05-22T03:37",
+      "location": "450 Mooney Ln",
+      "gamesId": 1,
+      "id": 9
+    },
+    {
+      "usersId": 9,
+      "date": "2023-06-15T15:40",
+      "location": "300 Dynamite Dr",
+      "gamesId": 10,
+      "id": 10
+    },
+    {
+      "usersId": 9,
+      "date": "2023-09-30T16:40",
+      "location": "400 Dynamite Dr",
+      "gamesId": 4,
+      "id": 11
+    },
+    {
+      "usersId": 26,
+      "date": "2023-07-15T18:42",
+      "location": "500 Cleveland Ave",
+      "gamesId": 6,
+      "id": 12
+    },
+    {
+      "usersId": 2,
+      "date": "2023-06-08T16:46",
+      "location": "350 Sergey St",
+      "gamesId": 2,
+      "id": 13
+    },
+    {
+      "usersId": 2,
+      "date": "2023-07-29T17:47",
+      "location": "450 Sergey St",
+      "gamesId": 15,
+      "id": 14
+    },
+    {
+      "usersId": 15,
+      "date": "2023-05-20T15:49",
+      "location": "111 UNO Rd",
+      "gamesId": 12,
+      "id": 15
+    }
+  ],
+  "tables": [],
+  "players": [
+    {
+      "usersId": 10,
+      "eventsId": "3",
+      "id": 2
+    },
+    {
+      "usersId": 4,
+      "eventsId": "3",
+      "id": 3
+    },
+    {
+      "usersId": 4,
+      "eventsId": "4",
+      "id": 4
+    },
+    {
+      "usersId": 26,
+      "eventsId": "6",
+      "id": 5
+    },
+    {
+      "usersId": 26,
+      "eventsId": "11",
+      "id": 6
+    },
+    {
+      "usersId": 2,
+      "eventsId": "9",
+      "id": 7
+    },
+    {
+      "usersId": 2,
+      "eventsId": "10",
+      "id": 8
+    },
+    {
+      "usersId": 2,
+      "eventsId": "8",
+      "id": 9
+    },
+    {
+      "usersId": 2,
+      "eventsId": "5",
+      "id": 10
+    },
+    {
+      "usersId": 15,
+      "eventsId": "14",
+      "id": 11
+    },
+    {
+      "usersId": 15,
+      "eventsId": "9",
+      "id": 12
+    },
+    {
+      "usersId": 15,
+      "eventsId": "11",
+      "id": 13
+    },
+    {
+      "usersId": 28,
+      "eventsId": "3",
+      "id": 14
+    },
+    {
+      "usersId": 1,
+      "eventsId": "8",
+      "id": 16
+    },
+    {
+      "usersId": 1,
+      "eventsId": "15",
+      "id": 18
+    },
+    {
+      "usersId": 1,
+      "eventsId": "6",
+      "id": 19
+    }
+  ]
+}
