@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Nic Lahde",
       "email": "nic@lahde.com",
-      "bio": "Rules lawyer and Monopoly hater."
+      "bio": "Rules lawyer, Monopoly hater, shameless sleever."
     },
     {
       "id": 2,
@@ -175,119 +175,136 @@
       "name": "CATAN",
       "minPlayers": 3,
       "maxPlayers": 4,
-      "weight": 2.3
+      "weight": 2.3,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 2,
       "name": "Clank!",
       "minPlayers": 2,
       "maxPlayers": 4,
-      "weight": 2.22
+      "weight": 2.22,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 3,
       "name": "Wingspan",
       "minPlayers": 1,
       "maxPlayers": 5,
-      "weight": 2.45
+      "weight": 2.45,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 4,
       "name": "Gloomhaven",
       "minPlayers": 1,
       "maxPlayers": 4,
-      "weight": 3.89
+      "weight": 3.89,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 5,
       "name": "Ark Nova",
       "minPlayers": 1,
       "maxPlayers": 4,
-      "weight": 3.72
+      "weight": 3.72,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 6,
       "name": "Dune Imperium",
       "minPlayers": 1,
       "maxPlayers": 4,
-      "weight": 3.02
+      "weight": 3.02,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 7,
       "name": "Root",
       "minPlayers": 2,
       "maxPlayers": 4,
-      "weight": 3.76
+      "weight": 3.76,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 8,
       "name": "Scythe",
       "minPlayers": 1,
       "maxPlayers": 5,
-      "weight": 3.43
+      "weight": 3.43,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 9,
       "name": "Axis & Allies 1942",
       "minPlayers": 2,
       "maxPlayers": 5,
-      "weight": 3.14
+      "weight": 3.14,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 10,
       "name": "Marvel Legendary",
       "minPlayers": 1,
       "maxPlayers": 5,
-      "weight": 2.43
+      "weight": 2.43,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 11,
       "name": "Star Wars: The Deckbuilding Game",
       "minPlayers": 2,
       "maxPlayers": 2,
-      "weight": 1.97
+      "weight": 1.97,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 12,
       "name": "UNO",
       "minPlayers": 2,
       "maxPlayers": 10,
-      "weight": 1.11
+      "weight": 1.11,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 13,
       "name": "Exploding Kittens",
       "minPlayers": 2,
       "maxPlayers": 5,
-      "weight": 1.09
+      "weight": 1.09,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 14,
       "name": "The Royal Game of Ur",
       "minPlayers": 2,
       "maxPlayers": 2,
-      "weight": 1.29
+      "weight": 1.29,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 15,
       "name": "Yahtzee",
       "minPlayers": 2,
       "maxPlayers": 10,
-      "weight": 1.18
+      "weight": 1.18,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "id": 16,
       "name": "Brass: Birmingham",
       "minPlayers": 2,
       "maxPlayers": 4,
-      "weight": 3.9
+      "weight": 3.9,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     },
     {
       "name": "Battleship",
       "minPlayers": 2,
       "maxPlayers": 2,
       "weight": 1.05,
-      "id": 17
+      "id": 17,
+      "image": "https://cf.geekdo-images.com/CrFZP5W-YwC8topbZidSVg__imagepage/img/-Ipdz-6MT8vEZWtEzmqs4XpFiZ4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2643117.jpg"
     }
   ],
   "usersGames": [
@@ -385,6 +402,21 @@
       "gamesId": 6,
       "usersId": 28,
       "id": 19
+    },
+    {
+      "gamesId": 1,
+      "usersId": 7,
+      "id": 20
+    },
+    {
+      "gamesId": 17,
+      "usersId": 7,
+      "id": 21
+    },
+    {
+      "gamesId": 13,
+      "usersId": 7,
+      "id": 22
     }
   ],
   "events": [
@@ -484,83 +516,88 @@
   "players": [
     {
       "usersId": 10,
-      "eventsId": "3",
+      "eventsId": 3,
       "id": 2
     },
     {
       "usersId": 4,
-      "eventsId": "3",
+      "eventsId": 3,
       "id": 3
     },
     {
       "usersId": 4,
-      "eventsId": "4",
+      "eventsId": 4,
       "id": 4
     },
     {
       "usersId": 26,
-      "eventsId": "6",
+      "eventsId": 6,
       "id": 5
     },
     {
       "usersId": 26,
-      "eventsId": "11",
+      "eventsId": 11,
       "id": 6
     },
     {
       "usersId": 2,
-      "eventsId": "9",
+      "eventsId": 9,
       "id": 7
     },
     {
       "usersId": 2,
-      "eventsId": "10",
+      "eventsId": 10,
       "id": 8
     },
     {
       "usersId": 2,
-      "eventsId": "8",
+      "eventsId": 8,
       "id": 9
     },
     {
       "usersId": 2,
-      "eventsId": "5",
+      "eventsId": 5,
       "id": 10
     },
     {
       "usersId": 15,
-      "eventsId": "14",
+      "eventsId": 14,
       "id": 11
     },
     {
       "usersId": 15,
-      "eventsId": "9",
+      "eventsId": 9,
       "id": 12
     },
     {
       "usersId": 15,
-      "eventsId": "11",
+      "eventsId": 11,
       "id": 13
     },
     {
-      "usersId": 28,
-      "eventsId": "3",
-      "id": 14
-    },
-    {
       "usersId": 1,
-      "eventsId": "8",
+      "eventsId": 8,
       "id": 16
     },
     {
       "usersId": 1,
-      "eventsId": "15",
+      "eventsId": 15,
       "id": 18
     },
     {
       "usersId": 1,
-      "eventsId": "6",
+      "eventsId": 6,
       "id": 19
+    },
+    {
+      "usersId": 1,
+      "eventsId": 13,
+      "id": 20
+    },
+    {
+      "usersId": 28,
+      "eventsId": 3,
+      "id": 21
     }
   ]
 }
